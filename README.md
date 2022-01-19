@@ -32,7 +32,7 @@ Happy to Github! Hope be Rich , Travel The World.
 
 ### Git Project -- Tools
 
-* wait
+* [Soc](https://github.com/djerryz/Soc): 安全工具
 
 
 
