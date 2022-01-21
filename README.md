@@ -32,7 +32,8 @@ Happy to Github! Hope be Rich , Travel The World.
 
 ### Git Project -- Tools
 
-* [Soc](https://github.com/djerryz/Soc): 安全工具
+* [Soc](https://github.com/djerryz/Soc): 成为最棒的漏洞挖掘工具
+* [RAT](https://github.com/djerryz/RAT):  远程控制 - All In One
 
 
 
