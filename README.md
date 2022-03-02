@@ -34,6 +34,13 @@ Happy to Github! Hope be Rich , Travel The World.
 
 * [Soc](https://github.com/djerryz/Soc): 成为最棒的漏洞挖掘工具
 * [RAT](https://github.com/djerryz/RAT):  远程控制 - All In One
+* [ReObfusFunc](https://github.com/djerryz/ReObfusFunc):  还原函数
+
+
+
+### Private
+
+* JsReverseConfusion:  JS逆混淆记录
 
 
 
