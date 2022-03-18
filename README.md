@@ -49,3 +49,7 @@ Happy to Github! Hope be Rich , Travel The World.
 | ![](https://github-readme-stats.vercel.app/api?username=djerryz&show_icons=true&hide_title=false&theme=cobalt) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djerryz&layout=compact) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
+
+
+### Visitors
+![Visitor Count](https://profile-counter.glitch.me/djerryz/count.svg)
