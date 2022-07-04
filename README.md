@@ -6,22 +6,6 @@ Happy to Github! Hope be Rich , Travel The World.
 
 
 
-### 介绍
-
-**你好，我是Djerryz 👋**❤️ ， 公众号: Art Of Hunting 
-
-
-
-
-### Timeline
-2014.9 信息对抗技术专业
-
-2018.2 渗透测试工程师
-
-2019.2 安全研究员
-
-
-
 ### Git Project -- Pages
 
 * [djerryz](https://github.com/djerryz): 个人介绍
@@ -32,8 +16,6 @@ Happy to Github! Hope be Rich , Travel The World.
 
 ### Git Project -- Tools
 
-* [Soc](https://github.com/djerryz/Soc): 成为最棒的漏洞挖掘工具
-* [RAT](https://github.com/djerryz/RAT):  远程控制 - All In One
 * [ReObfusFunc](https://github.com/djerryz/ReObfusFunc):  还原函数
 
 
